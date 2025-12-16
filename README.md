@@ -1,7 +1,7 @@
 # EWOAE Algorithm
 
 This repository provides the core algorithm implementation of the
-Elevation- and Water-Occurrence-based (EWOAE) algorithm for recovering
+Elevation and Water Occurrence-based (EWOAE) algorithm for recovering
 contaminated pixels in water classification images caused by clouds,
 cloud shadows, and snow. The generated dataset, namely the global reservoir monthly surface area (GRMSA) dataset, can be accessed at [Zenodo](https://doi.org/10.5281/zenodo.16893097).
 
